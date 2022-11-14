@@ -6,7 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="adapter-design-pattern" />
+        <module name="weapon-game" />
       </profile>
     </annotationProcessing>
   </component>
