@@ -48,7 +48,7 @@ public class CDAdapter extends AbstractTableModel {
         return returned;
 
     }
-    
+
     @Override
     public String getColumnName(int column) {
         switch(column) {
