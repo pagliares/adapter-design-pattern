@@ -13,3 +13,12 @@ In this example, I demonstrate the use of the Adapter Design Pattern in order to
 ### 02 - CD table
 
 This example demonstrates how developers use the Adapter design pattern in order to adapt a domain specific interface (list of cds) to become compatible with the AbstractTableModel required by the Swing JTable component. By using the design pattern Adapter, the example shows the list of CDs in the JTable.
+
+
+### 03 - Stub
+
+This example demonstrates the concept of Stub (empty interface implementation to ease the task of overriding interfaces methods that are not needed by a developer). The example illustrates the use of the MouseAdapter stub class, part of the Java SE Swing library. 
+
+As we can see form the name, MouseAdapter is an implementation of the design pattern adapter in the sense that it adapts the interface of an interface to  MouseAdapter interface that can be inherited by a domain specific class, overriding only the methods needed.
+
+Although Java SE developers named the class MouseAdapter, some people prefer to see it as a implementation of the Facade design pattern.
