@@ -4,7 +4,11 @@ Repository with source code of the examples used in the classes about the design
 
 ## Examples
 
-To ease navigating through the examples in the repo, I created a Multi Module Maven Project. In this way, all examples can be loaded and built together in a single instance of the IDE of your choice (I use IntelliJ IDEA Ultimate Edition).
+To ease navigating through the examples in the repo, I created a Multi Module Maven Project. In this way, all examples can be loaded and built together in a single instance of the IDE of your choice (I use IntelliJ IDEA Ultimate Edition). To open the examples in your IDE, open/import the parent project (folder highlighted in blue in the Figure).
+
+<p align="center">
+    <img src="Images_UML_Diagrams/Importing_Project.png" alt="Multi model Maven project structure">
+</p>
 
 ### 01 - Weapon Game
 
