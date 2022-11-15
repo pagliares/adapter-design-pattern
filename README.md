@@ -26,6 +26,9 @@ In this example, I demonstrate the use of the Adapter Design Pattern in order to
 
 This example demonstrates how developers use the Adapter design pattern in order to adapt a domain specific interface (list of cds) to become compatible with the AbstractTableModel required by the Swing JTable component. By using the design pattern Adapter, the example shows the list of CDs in the JTable.
 
+<p align="center">
+    <img src="Images_UML_Diagrams/CD_JTable.png" alt="Printscreen of the JTable with CD data">
+</p>
 
 ### 04 - stub
 
