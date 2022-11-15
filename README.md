@@ -37,3 +37,7 @@ This example demonstrates the concept of Stub (empty interface implementation to
 As we can see form the name, MouseAdapter is an implementation of the design pattern adapter in the sense that it adapts the interface of an interface to  MouseAdapter interface that can be inherited by a domain specific class, overriding only the methods needed.
 
 Although Java SE developers named the class MouseAdapter, some people prefer to see it as a implementation of the Facade design pattern.
+
+<p align="center">
+    <img src="Images_UML_Diagrams/Stub.png" alt="Printscreen of the running stub example">
+</p>
