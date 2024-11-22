@@ -20,7 +20,11 @@ This is the initial version of our weapon game. In the game, a character can use
 
 ### 02 - weapon-game
 
-In this example, I demonstrate the use of the Adapter Design Pattern in order to use a third-party class in our weapon game. We don't have the source code of the third-party classs (but we have the Java doc). In addition to that, we don't want to change our Weapon interface to not break all of our classes that implement that interface. The third party class represents a ShotGun to be used by our game Character.
+In this example, I demonstrate the use of the Adapter Design Pattern in order to use a third-party class in our weapon game. We don't have the source code of the third-party classs (but we have the Javadoc - See Libraries/Shotgun directory in this repository. In addition to that, we don't want to change our Weapon interface to not break all of our classes that implement that interface. The third party class represents a ShotGun to be used by our game Character.
+
+<p align="center">
+    <img src="Images_UML_Diagrams/javadoc.png" alt="Documentation for the third-party class named Shotgun">
+</p>
 
 ### 03 - cd-table
 
