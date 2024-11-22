@@ -12,7 +12,7 @@ package adapter;
 public class Pistol implements Weapon {
 
     public void load() {
-        System.out.println("Loading my Pistol");
+        System.out.println("Loading the Pistol");
     }
 
     public void shoot() {
